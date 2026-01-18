@@ -1,0 +1,7 @@
+{
+  "name": "Funters Fund Management",
+  "description": "Friendship that Stands in Crisis - A comprehensive fund management system for private circles featuring 70/30 recovery rules and automated financial tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
